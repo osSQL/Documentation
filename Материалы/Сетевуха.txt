@@ -1,0 +1,16 @@
+Как NAT спас интернет?:https://www.youtube.com/watch?v=LqkIJc0rEfs
+Что такое LAN и чем отличается от WAN?:https://www.youtube.com/watch?v=z6ppjg6xAbQ
+Что такое Firewall? | Простыми словами за 5 минут:https://www.youtube.com/watch?v=kgWLnELcjCY
+Маршрутизатор. Коммутатор. Хаб. Что это и в чем разница?:https://www.youtube.com/watch?v=Bwg-om5NnmQ
+Что такое Mikrotik?:https://www.youtube.com/watch?v=9Wp-q-ap_2A
+Что такое IP - адрес и можно ли по нему кого-то вычислить?:https://www.youtube.com/watch?v=6tFGoiok0u8
+Что такое Nginx?:https://www.youtube.com/watch?v=6Df5vJC-G8Q
+HTTP или HTTPS – как работает и в чем разница?:https://www.youtube.com/watch?v=C9T_7D12URI
+TCP и UDP | Что это такое и в чем разница?:https://www.youtube.com/watch?v=yMSJKBQINAc
+Все, что вам нужно знать про DHCP:https://www.youtube.com/watch?v=XPRYaGCkXJ8
+Telnet, SSH, консоль и терминал - что это и зачем нужно?:https://www.youtube.com/watch?v=HTlqTogeXoQ
+Модель OSI | 7 уровней за 7 минут:https://www.youtube.com/watch?v=je0QFU7p5Oo
+IP – телефония | Что это и с чего начать?:https://www.youtube.com/watch?v=Z4EuDqQ-8kU
+SSL и TLS - в чем разница?:https://www.youtube.com/watch?v=OmlkEhRHRTA
+Про CI/CD за 5 минут:https://www.youtube.com/watch?v=Y-hYifHkjMs
+Учим основы - что такое VLAN?:https://www.youtube.com/watch?v=tbg1JiTRBSQ

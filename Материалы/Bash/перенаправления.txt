@@ -1,0 +1,31 @@
+ls -l > file - перенаправит содержимое команды "ls -l" в файл "file"
+
+">" - перезаписывает файл ">>" - дописать файл
+
+| - Конвейер,который выполняет по порядку действия заданные пользователем.
+
+find /etc > log 2> error_log | cat log | grep state | sort | head -1
+    |
+Ищем все файлы в /etc и перенаправляем содержимое в log
+
+
+find /etc > log 2> error_log | cat log | grep state | sort | head -1
+		 |
+		Все ошибки перенаправляем в error_log
+
+find /etc > log 2> error_log | cat log | grep state | sort | head -1	
+				|
+				Показать содержимое log
+
+find /etc > log 2> error_log | cat log | grep state | sort | head -1
+						|
+						Ищем в log, слова "state"
+
+find /etc > log 2> error_log | cat log | grep state | sort | head -1
+							|
+							Сортируем..
+
+find /etc > log 2> error_log | cat log | grep state | sort | head -1
+								|
+								Вывод первой строчки
+Это есть конвейер(Pipe)
